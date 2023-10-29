@@ -50,7 +50,6 @@ This repository contains only vanilla JavaScript Projects
 Report if there is any bug🐛 in these projects
 
 > ### Thanks for Visiting 😍
->
 >   <a href="https://nivethjunnithan.github.io/" target="_blank">
 >   <img align="center" src="https://img.shields.io/badge/nivethjunnithan-181717?style=flat-square&logo=github" alt="Portfolio" style="vertical-align: middle; font-size: larger;"/>
 >   </a>
